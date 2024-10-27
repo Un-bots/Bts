@@ -23,7 +23,7 @@ async def basket(bot, message):
     x=await bot.send_dice(message.chat.id, "🏀")
     m=x.dice.value
     await message.reply_text(f"Hey {message.from_user.mention} your Score is : {m}",quote=True)
-@app.on_message(filters.command("jackpot"))
+@app.on_message(filters.command("slot"))
 async def basket(bot, message):
     x=await bot.send_dice(message.chat.id, "🎰")
     m=x.dice.value
