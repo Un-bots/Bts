@@ -17,7 +17,16 @@ CʜᴀᴛGPT ᴄᴏᴍᴍᴀɴᴅꜱ:
 sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 /packkang ➠ ᴄʀᴇᴀᴛᴇs ᴀ ᴘᴀᴄᴋ ᴏғ sᴛɪᴄᴋᴇʀs ғʀᴏᴍ ᴀ ᴏᴛʜᴇʀ ᴘᴀᴄᴋ.
+
 /stickerid ➠ ɢᴇᴛs ᴛʜᴇ sᴛɪᴄᴋᴇʀ ɪᴅ ᴏғ ᴀ sᴛɪᴄᴋᴇʀ.
+
+/kang ➠ Rᴇᴘʟʏ ᴛᴏ ᴀ sᴛɪᴄᴋᴇʀ/ɪᴍᴀɢᴇ ᴛᴏ ᴋᴀɴɢ ɪᴛ.
+
+/getsticker ➠ Rᴇᴘʟʏ ᴛᴏ ᴀ sᴛɪᴄᴋᴇʀ Tᴏ ɢᴇᴛ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ɪɴ ɪᴍɢ 
+
+/mmf ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀ sᴛɪᴄᴋᴇʀ ᴏʀ ɪᴍᴀɢᴇ ᴀɴᴅ Gɪᴠᴇ ᴍᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ /mmf ᴛᴏ ᴍᴇᴍɪғʏ
+
+/tiny ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴍᴀᴋᴇ ɪᴛ ᴛɪɴʏ.
 '''
 
     HELP_TagAll = '''Tᴀɢ
@@ -26,8 +35,7 @@ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 ✿ ᴄʜᴏᴏsᴇ ᴛᴀɢ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ ✿
 
-๏ /gmtag ➛ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ 
-ᴛᴀɢ sᴛᴏᴘ ⇴ /gmstop
+๏ /gmtag ➛ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ᴛᴀɢ sᴛᴏᴘ ⇴ /gmstop
 
 ๏ /gntag ➛ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴛᴀɢ sᴛᴏᴘ ⇴ /gnstop
 
@@ -112,7 +120,7 @@ Admins only:
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
 __
-𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  - 𝚈𝚞𝚖𝚒 𝚋𝚊𝚗 𝚈𝚞𝚖𝚒 𝚖𝚞𝚝𝚎 𝚈𝚞𝚖𝚒 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌
+
 '''
     HELP_Search = '''Sᴇᴀʀᴄʜ
 
@@ -146,13 +154,13 @@ Example:
 
 ◌ /toss [ᴛᴏss ᴀ ᴄᴏɪɴ]
 
-◌ /roll [ʀᴏʟʟ ᴀ ᴅɪᴄᴇ]
+◌ /dice [ʀᴏʟʟ ᴀ ᴅɪᴄᴇ]
 
 ◌ /dart [ᴛʜʀᴏᴡ ᴀ ᴅᴀʀᴛ]
 
 ◌ /slot [Jᴀᴄᴋᴘᴏᴛ ᴍᴀᴄʜɪɴᴇ]
 
-◌ /bowling [ʙᴏᴡʟɪɴɢ ɢᴀᴍᴇ]
+◌ /ball [ʙᴏᴡʟɪɴɢ ɢᴀᴍᴇ]
 
 ◌ /basket [ʙᴀsᴋᴇᴛʙᴀʟʟ ɢᴀᴍᴇ]
 
@@ -212,12 +220,8 @@ Example:
 ◌ /cute [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴜᴛᴇɴᴇss]
 ◌ /horny [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ʜᴏʀɴʏɴᴇss]
 ◌ /lesbo [ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ ʟᴇᴢʙɪᴀɴ ʏᴏᴜ ᴀʀᴇ]
-◌ /depressed [ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ ᴅᴇᴘʀᴇssᴇᴅ ʏᴏᴜ ᴀʀᴇ]
 ◌ /gay [ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ ɢᴀʏ ʏᴏᴜ ᴀʀᴇ]
-◌ /rand [ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ ʀᴀɴᴅ ʏᴏᴜ ᴀʀᴇ]
-◌ /bkl [ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ ʙᴋʟ ʏᴏᴜ ᴀʀᴇ]
-◌ /boobs [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ʙᴏᴏʙɪᴇs sɪᴢᴇ]
-◌ /dick [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴅɪᴄᴋ sɪᴢᴇ]
+◌ /cock [ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴏᴄᴋ sɪᴢᴇ]
 '''
     HELP_Q = '''ǫᴜᴏᴛʟʏ
 
