@@ -69,7 +69,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/unb_info")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kira_update")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/unb_support")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/unb_support")
 # --------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
-AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
+AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "900"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))
 # --------------------------------------------------------------------------------
